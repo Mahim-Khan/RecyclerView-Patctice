@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:weightSum="6"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_weight="1"
+        android:id="@+id/imageviewid"
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+        android:src="@drawable/abdullah_al_fahim_173_15_10430_"
+        />
+    <LinearLayout
+        android:layout_weight="5"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/studentNameid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Abdullah Al Fahim"
+            android:textSize="20sp"
+            />
+        <TextView
+            android:id="@+id/studentviewid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ID:173-15-10430"
+            android:textSize="20sp"
+            />
+        <TextView
+            android:id="@+id/sectionId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="section:0-15"
+            android:textSize="15sp"
+            />
+        </LinearLayout>
+
+    </LinearLayout>

@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string-array name="studentNames">
+        <item>Abdullah Al Fahim</item>
+        <item>Ajoy Sutradhar</item>
+        <item>Aftabur Rahman Tonmoy</item>
+        <item>Fahim Ahmed</item>
+        <item>Sazzad Hossain</item>
+        <item>Nasim</item>
+        <item>Tauhid Islam</item>
+        <item>Rahima Akter Munni</item>
+        <item>S M Sohan</item>
+        <item>Sabbir Ahamed</item>
+        <item>Sadia Afrin Rajani</item>
+        <item>Sazzad Ahamed</item>
+    </string-array>
+    <string-array name="studentId">
+        <item>ID:173-15-10430</item>
+        <item>ID:173-15-10434</item>
+        <item>ID:173-15-10423</item>
+        <item>ID:173-15-10431</item>
+        <item>ID:173-15-10444</item>
+        <item>ID:173-15-10463</item>
+        <item>ID:173-15-10421</item>
+        <item>ID:173-15-10457</item>
+        <item>ID:173-15-10446</item>
+        <item>ID:173-15-10451</item>
+        <item>ID:173-15-10442</item>
+        <item>ID:173-15-10455</item>
+    </string-array>
+    <string-array name="studentSection">
+        <item>Section:0-15</item>
+        <item>Section:0-15</item>
+        <item>Section:0-15</item>
+        <item>Section:0-15</item>
+        <item>Section:0-15</item>
+        <item>Section:0-15</item>
+        <item>Section:0-15</item>
+        <item>Section:0-15</item>
+        <item>Section:0-15</item>
+        <item>Section:0-15</item>
+        <item>Section:0-15</item>
+        <item>Section:0-15</item>
+    </string-array>
+</resources>
